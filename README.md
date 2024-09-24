@@ -1,1 +1,1 @@
-# S-MBRec
+# MBRCC
